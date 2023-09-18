@@ -70,7 +70,7 @@ elif num > 1:
         print(num, "is a prime number")
 ```
 
-- Make note of where the backtick keybaord key is located.
+- Make note of where the backtick keyboard key is located.
 - It should appear above the tab key,
 - but it may vary based on your keyboard layout.
 
