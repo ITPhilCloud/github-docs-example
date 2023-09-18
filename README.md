@@ -172,5 +172,6 @@ Github extends the functionality of Markdown tables to provide more alignment an
 - [GFM - Tables (with extensions)](https://github.github.com/gfm/#tables-extension-) <sup>[2]</sup>
 - [8 Easy Ways to Take Screenshots in Windows 10 and 11](https://www.cnet.com/tech/services-and-software/8-easy-ways-to-take-screenshots-in-windows-10-and-11/)
 - [Take a screenshot on your Mac](https://support.apple.com/en-us/HT201361)
+- [Secret Window, Secret Garden](https://www.bartleby.com/essay/Secret-Window-Secret-Garden-FCESBV8M4LV)
 
   
